@@ -1,0 +1,23 @@
+{
+  "name": "floz-web",
+  "version": "1.0.0",
+  "description": "FLOZ — Official Website & Creative Technology Studio Platform",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 serve.py 8000",
+    "start": "python3 serve.py 8000",
+    "serve": "python3 serve.py 8000"
+  },
+  "keywords": [
+    "floz",
+    "floz-web",
+    "creative-technology",
+    "portfolio",
+    "digital-studio",
+    "gsap",
+    "animations"
+  ],
+  "author": "FLOZ Studio (https://floz.tech)",
+  "license": "UNLICENSED"
+}
