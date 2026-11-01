@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: floz-web
+    runtime: python
+    plan: free
+    buildCommand: ""
+    startCommand: python3 serve.py
+    envVars:
+      - key: PORT
+        value: "10000"
+      - key: NODE_ENV
+        value: production
+      - key: PUBLIC_SITE_URL
+        value: https://floz.tech
