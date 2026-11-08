@@ -8,8 +8,8 @@
 
 | # | Name | Role |
 | :--- | :--- | :--- |
-| **01** | **NAVEEN M** | Founder |
-| **02** | **SHABER MOHAMAD B** | Founder |
+| **01** | **SHABER MOHAMAD B** | Founder |
+| **02** | **NAVEEN M** | Founder |
 | **03** | **MOHAMMAD MUJAHID** | CEO — Chief Executive Officer |
 | **04** | **SAHANA S** | CTO — Chief Technology Officer |
 | **05** | **LATSHIKA J K** | COO — Chief Operating Officer |
